@@ -1,0 +1,14 @@
+D:\01 HelloWorld\C#practicer\bin\Debug\net8.0\C#practicer.exe
+D:\01 HelloWorld\C#practicer\bin\Debug\net8.0\C#practicer.deps.json
+D:\01 HelloWorld\C#practicer\bin\Debug\net8.0\C#practicer.runtimeconfig.json
+D:\01 HelloWorld\C#practicer\bin\Debug\net8.0\C#practicer.dll
+D:\01 HelloWorld\C#practicer\bin\Debug\net8.0\C#practicer.pdb
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.AssemblyInfoInputs.cache
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.AssemblyInfo.cs
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.csproj.CoreCompileInputs.cache
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.dll
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\refint\C#practicer.dll
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.pdb
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\C#practicer.genruntimeconfig.cache
+D:\01 HelloWorld\C#practicer\obj\Debug\net8.0\ref\C#practicer.dll
